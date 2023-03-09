@@ -17,7 +17,7 @@ namespace CMP1903M_A01_2223
             { 
                 if (value >= 1 && value <= 13)
                 {
-                    value = value;
+                    this.value = value;
                 }
                 else
                 {
